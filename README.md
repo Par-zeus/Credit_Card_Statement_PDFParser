@@ -94,6 +94,9 @@ print(f"Issuer: {result['issuer']}")
 print(f"Card Last 4: {result['card_last_four']}")
 print(f"Amount Due: {result['total_amount_due']}")
 ```
+<img width="1331" height="611" alt="image" src="https://github.com/user-attachments/assets/a947fafe-89e6-42d4-a499-b2491d33b32c" />
+<img width="1329" height="523" alt="image" src="https://github.com/user-attachments/assets/dce1fe28-f2ae-4361-8bb6-1060868a3442" />
+<img width="1330" height="556" alt="image" src="https://github.com/user-attachments/assets/561d8f2d-2d67-4051-8b8f-c63f5840bc52" />
 
 ## 📂 Project Structure
 
